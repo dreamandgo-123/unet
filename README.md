@@ -5,7 +5,7 @@ You can download:
 
 Kitti dataset from here:http://www.cvlibs.net/download.php?file=data_road.zip
 
-CamVid dataset from here:https://github.com/preddy5/segnet/tree/master/CamVid
+CamVid dataset from here:https://github.com/preddy5/segnet/tree/master/CamVid  or Baidu Net disk link: https://pan.baidu.com/s/1RyEc-xCAx31y5_r9PQYnlQ  code: nsbp
 
 ### How to use
 ## Requirement
